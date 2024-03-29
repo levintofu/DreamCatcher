@@ -1,4 +1,6 @@
 # DreamCatcher
 Dream Catcher Specification report 
 
-Describing a possible Dream Catcher blockchian Infrastructure plan
+Exaple of FOunding Documents: 
+
+Project plane: Describing a possible DreamCatcher Infrastructure plan
